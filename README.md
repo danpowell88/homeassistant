@@ -10,3 +10,4 @@
 - iOS/android native alerts with actions
 - Rubbish bin schedule/location detection
 - Battery status page / alerts
+- turn main lights on if someone is home and its getting dark
