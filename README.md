@@ -9,3 +9,4 @@
 - Vacuum alerts when starting,finished,errored
 - iOS/android native alerts with actions
 - Rubbish bin schedule/location detection
+- Battery status page / alerts
