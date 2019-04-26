@@ -14,3 +14,5 @@
 
 #Things to investigate
 https://www.youtube.com/watch?v=xCQoOZNdaGY
+
+Bed occupancy https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/
